@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T10:20:25 IST" name="Suite" finished-at="2024-03-05T10:21:45 IST" duration-ms="80222">
+    <groups>
+      <group name="regression">
+        <method signature="TC03_WellNess.T001_goToCorporates()[pri:1, instance:testCases.TC03_WellNess@4d154ccd]" name="T001_goToCorporates" class="testCases.TC03_WellNess"/>
+        <method signature="TC03_WellNess.T003_sendDetails()[pri:3, instance:testCases.TC03_WellNess@4d154ccd]" name="T003_sendDetails" class="testCases.TC03_WellNess"/>
+        <method signature="TC03_WellNess.T004_VerifyMsg()[pri:4, instance:testCases.TC03_WellNess@4d154ccd]" name="T004_VerifyMsg" class="testCases.TC03_WellNess"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC03_WellNess.T002_validateCorporate()[pri:2, instance:testCases.TC03_WellNess@4d154ccd]" name="T002_validateCorporate" class="testCases.TC03_WellNess"/>
+        <method signature="TC03_WellNess.T005_MsgScreenshot()[pri:5, instance:testCases.TC03_WellNess@4d154ccd]" name="T005_MsgScreenshot" class="testCases.TC03_WellNess"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-03-05T10:20:25 IST" name="Test" finished-at="2024-03-05T10:21:45 IST" duration-ms="80222">
+      <class name="testCases.TC03_WellNess">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC03_WellNess@4d154ccd]" started-at="2024-03-05T10:20:25 IST" name="setup" finished-at="2024-03-05T10:20:59 IST" duration-ms="33837" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="T001_goToCorporates()[pri:1, instance:testCases.TC03_WellNess@4d154ccd]" started-at="2024-03-05T10:20:59 IST" name="T001_goToCorporates" finished-at="2024-03-05T10:21:05 IST" duration-ms="5341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T001_goToCorporates -->
+        <test-method signature="T002_validateCorporate()[pri:2, instance:testCases.TC03_WellNess@4d154ccd]" started-at="2024-03-05T10:21:05 IST" name="T002_validateCorporate" finished-at="2024-03-05T10:21:05 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T002_validateCorporate -->
+        <test-method signature="T003_sendDetails()[pri:3, instance:testCases.TC03_WellNess@4d154ccd]" started-at="2024-03-05T10:21:05 IST" name="T003_sendDetails" finished-at="2024-03-05T10:21:27 IST" duration-ms="22012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T003_sendDetails -->
+        <test-method signature="T004_VerifyMsg()[pri:4, instance:testCases.TC03_WellNess@4d154ccd]" started-at="2024-03-05T10:21:28 IST" name="T004_VerifyMsg" finished-at="2024-03-05T10:21:43 IST" duration-ms="15489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T004_VerifyMsg -->
+        <test-method signature="T005_MsgScreenshot()[pri:5, instance:testCases.TC03_WellNess@4d154ccd]" started-at="2024-03-05T10:21:43 IST" name="T005_MsgScreenshot" finished-at="2024-03-05T10:21:44 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T005_MsgScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC03_WellNess@4d154ccd]" started-at="2024-03-05T10:21:44 IST" name="tearDown" finished-at="2024-03-05T10:21:45 IST" duration-ms="1277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC03_WellNess -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

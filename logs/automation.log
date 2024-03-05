@@ -1,0 +1,55 @@
+11:56:16.561 [main] INFO  testCases.TC01_Doctors - *******Starting the TC001 TestCases********
+11:56:18.276 [main] INFO  testCases.TC01_Doctors - *******Validating the HomePage********
+11:56:51.223 [main] INFO  testCases.TC01_Doctors - *******clicking find doctors********
+11:56:53.779 [main] INFO  testCases.TC01_Doctors - *******Sending the location********
+11:57:25.828 [main] INFO  testCases.TC01_Doctors - *******Searching Doctor********
+11:58:06.887 [main] INFO  testCases.TC01_Doctors - *******selecting the gender********
+12:14:30.653 [main] INFO  testCases.TC_FindingHospital - *******Starting the TC001 TestCases********
+12:45:32.228 [main] INFO  testCases.TC01_Doctors - *******Starting the TC001 TestCases********
+12:45:34.152 [main] INFO  testCases.TC01_Doctors - *******Validating the HomePage********
+12:45:38.282 [main] INFO  testCases.TC01_Doctors - *******clicking find doctors********
+12:45:40.129 [main] INFO  testCases.TC01_Doctors - *******Sending the location********
+12:45:43.512 [main] INFO  testCases.TC01_Doctors - *******Searching Doctor********
+12:45:48.925 [main] INFO  testCases.TC01_Doctors - *******selecting the gender********
+12:45:54.187 [main] INFO  testCases.TC01_Doctors - *******selecting the Patient Stories********
+12:45:59.232 [main] INFO  testCases.TC01_Doctors - *******selecting the Doctor Experience********
+12:46:05.928 [main] INFO  testCases.TC01_Doctors - *******selecting the Filters********
+12:46:12.760 [main] INFO  testCases.TC01_Doctors - *******selecting the Filters again********
+12:46:18.578 [main] INFO  testCases.TC01_Doctors - *******selecting the Relevance********
+12:46:23.705 [main] INFO  testCases.TC01_Doctors - *******Fetching Doctor Information********
+14:28:38.626 [main] INFO  testCases.TC01_Doctors - *******Starting the TC001 TestCases********
+14:29:36.293 [main] INFO  testCases.TC01_Doctors - *******clicking find doctors********
+14:29:38.383 [main] INFO  testCases.TC01_Doctors - *******Sending the location********
+14:29:42.494 [main] INFO  testCases.TC01_Doctors - *******Searching Doctor********
+14:29:49.883 [main] INFO  testCases.TC01_Doctors - *******selecting the gender********
+14:29:58.231 [main] INFO  testCases.TC01_Doctors - *******selecting the Patient Stories********
+14:30:32.448 [main] INFO  testCases.TC01_Doctors - *******selecting the Doctor Experience********
+14:32:13.564 [main] INFO  testCases.TC01_Doctors - *******selecting the Filters********
+14:33:23.399 [main] INFO  testCases.TC01_Doctors - *******selecting the Filters again********
+14:33:36.641 [main] INFO  testCases.TC01_Doctors - *******selecting the Relevance********
+16:04:36.698 [main] INFO  testCases.TC_FindingHospital - *******Starting the TC001 TestCases********
+16:32:10.968 [main] INFO  testCases.TC_FindingHospital - *******Starting the TC001 TestCases********
+16:33:45.092 [main] INFO  testCases.TC01_Doctors - *******Starting the TC001 TestCases********
+16:33:46.681 [main] INFO  testCases.TC01_Doctors - *******Validating the HomePage********
+16:34:10.249 [main] INFO  testCases.TC01_Doctors - *******clicking find doctors********
+16:35:43.432 [main] INFO  testCases.TC01_Doctors - *******Fetching Doctor Information********
+17:33:57.421 [main] INFO  testCases.TC_FindingHospital - *******Starting the TC001 TestCases********
+10:10:50.237 [main] INFO  testCases.TC01_Doctors - *******Starting the TC001 TestCases********
+10:12:08.590 [main] INFO  testCases.TC01_Doctors - *******clicking find doctors********
+10:12:13.984 [main] INFO  testCases.TC01_Doctors - *******Sending the location********
+10:12:49.432 [main] INFO  testCases.TC01_Doctors - *******Searching Doctor********
+10:13:57.821 [main] INFO  testCases.TC01_Doctors - *******selecting the gender********
+10:15:00.550 [main] INFO  testCases.TC01_Doctors - *******selecting the Patient Stories********
+10:15:05.082 [main] INFO  testCases.TC01_Doctors - *******selecting the Doctor Experience********
+10:16:39.736 [main] INFO  testCases.TC01_Doctors - *******Starting the TC001 TestCases********
+10:16:39.864 [main] INFO  testCases.TC01_Doctors - *******Validating the HomePage********
+10:16:42.491 [main] INFO  testCases.TC01_Doctors - *******clicking find doctors********
+10:16:45.454 [main] INFO  testCases.TC01_Doctors - *******Sending the location********
+10:16:47.979 [main] INFO  testCases.TC01_Doctors - *******Searching Doctor********
+10:16:52.758 [main] INFO  testCases.TC01_Doctors - *******selecting the gender********
+10:16:59.660 [main] INFO  testCases.TC01_Doctors - *******selecting the Patient Stories********
+10:17:04.120 [main] INFO  testCases.TC01_Doctors - *******selecting the Doctor Experience********
+10:17:08.245 [main] INFO  testCases.TC01_Doctors - *******selecting the Filters********
+10:17:14.777 [main] INFO  testCases.TC01_Doctors - *******selecting the Filters again********
+10:17:19.921 [main] INFO  testCases.TC01_Doctors - *******selecting the Relevance********
+10:17:24.858 [main] INFO  testCases.TC01_Doctors - *******Fetching Doctor Information********
